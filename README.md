@@ -55,7 +55,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ League-of-CSS
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando ferramentas de Design** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](./League-of-CSS) |
+| **Projeto feito em IA simulando ferramentas de Design** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./League-of-CSS](https://github.com/gabriel-tino/League-of-CSS)) |
 
 #### 🗃️ League-of-CSS
 | Projeto | Descrição | Link |
