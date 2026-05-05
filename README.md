@@ -36,10 +36,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Scraping de Dados
+#### 🗃️ a-corrida-do-prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Coleta de dados web** | Desenvolvimento de scraper em Python (Scrapy) para coleta de dados de produtos. | [Ver Projeto]([./https://github.com/gabriel-tino/projetoscraping](https://github.com/gabriel-tino/projetoscraping)) |
+| **A corrida do prompt** | Este repositório documenta a atividade prática "A Corrida do Prompt", onde os participantes atuam como engenheiros de instrução para dominar a comunicação com Modelos de Linguagem (LLMs) | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/a-corrida-do-prompt) |
  
 #### 🤖 Pipeline e API de Dados
 | Projeto | Descrição | Link |
