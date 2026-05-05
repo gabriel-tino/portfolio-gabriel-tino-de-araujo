@@ -41,10 +41,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **A corrida do prompt** | Este repositório documenta a atividade prática "A Corrida do Prompt", onde os participantes atuam como engenheiros de instrução para dominar a comunicação com Modelos de Linguagem (LLMs) | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/a-corrida-do-prompt) |
  
-#### 🤖 Pipeline e API de Dados
+#### 🤖 batalha-de-modelos-e-engenharia-de-prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Pipeline-API-e-Agno** | Criação de processo ETL em Python integrado a API da Coinbase. | [Ver Projeto](./Pipeline-API-e-Agno) |
+| **batalha-de-modelos-e-engenharia-de-prompt** | Este repositório registra os dados e análises da atividade de desenvolvimento Front-end utilizando prompts estruturados para testar a fidelidade e precisão de diversos LLMs | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/batalha-de-modelos-e-engenharia-de-prompt) |
  
 ---
 #### 🗃️ Site em HTML e CSS
