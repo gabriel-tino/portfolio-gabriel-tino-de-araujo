@@ -50,12 +50,12 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Site em HTML e CSS
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site de uma estética de beleza** | Desenvolvimento em HTML e CSS de um site completo e funcional. | [Ver Projeto](./portifolioAulaSexta) |
+| **Site de uma estética de beleza** | Desenvolvimento em HTML e CSS de um site completo e funcional. | [Ver Projeto]([./portifolioAulaSexta](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/engenharia-de-software-e-ai-com-bubble.io)) |
 
-#### 🗃️ League-of-CSS
+#### 🗃️ OrcaPro
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando ferramentas de Design** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./League-of-CSS](https://github.com/gabriel-tino/League-of-CSS)) |
+| **Projeto feito em IA simulando Cadastro de clientes** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./League-of-CSS](https://github.com/gabriel-tino/League-of-CSS)) |
 
 #### 🗃️ League-of-CSS
 | Projeto | Descrição | Link |
