@@ -1,43 +1,33 @@
-🎵 A Corrida do Prompt: Engenharia Musical (Edição BK')
-Este repositório documenta a atividade prática de engenharia de instrução voltada para a geração de áudio, onde os participantes devem emular a estética sonora e lírica do álbum "Castelos & Ruínas".
-
-🎯 Objetivo
-Obter uma faixa musical que capture a essência do "Castelos & Ruínas": o equilíbrio entre a melancolia das "ruínas" (derrotas, reflexões) e a imponência dos "castelos" (conquistas, ego), utilizando refinamento técnico de prompts de áudio e letra.
-
-🛠️ Ferramentas e Configuração
-Modelo de IA: Suno AI (v3.5 ou v4).
-
-Plataforma: Desktop ou Celular.
-
-Formato: Atividade realizada em trios (Lirista, Produtor de Som e Analista de Prompt).
-
-🎮 Dinâmica do Jogo
-Os grupos devem atingir o "Alvo" (a sonoridade e letra ideal) dentro de um limite de 5 gerações.
-
-Ciclo de Refinamento (Obrigatório)
-Antes de clicar em "Create" novamente, o trio deve:
-
-Avaliar o Sample: A batida está muito animada? A letra está genérica? O "flow" respeita a métrica do rap?
-
-Ajustar Tags de Estilo: Refinar os Style Prompts (ex: trocar "Rap" por "Dark Underground Hip Hop, 90bpm, Lo-fi textures, Boombap, melancholic piano").
-
-📋 Desafios Propostos (Os "Alvos")
-1. A Atmosfera Sonora (Style Prompt)
-Descrição: Criar um instrumental que remeta à produção de JXNVS no álbum.
-
-Critérios de Sucesso: Uso de samples de piano sombrios, batida Boombap pesada mas lenta, ambiência de chuva ou ruído de vinil.
-
-Refinamento: Se a IA gerar um Trap moderno, o grupo deve inserir tags negativas ou reforçar "Old School" e "Raw".
-
-2. A Construção Lírica (Lyrics Prompt)
-Descrição: Escrever uma letra que explore a dualidade ascensão vs. queda.
-
-Critérios:
-
-Uso de metáforas sobre arquitetura (prédios, cimento, trunfo).
-
-Voz profunda e cadenciada (estilo monólogo).
-
-Proibição: Evitar rimas óbvias/infantis (ex: amor/dor); focar em rimas internas e multissilábicas.
-
-Ajuste Fino: Se a IA cantar de forma muito melódica, usar o comando [Spoken Word Intro] ou [Aggressive Rap Verse].
+# 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
+ 
+![GitHub language count](https://img.shields.io/github/languages/count/[gabriel-tino]/projeto-composicao-musical-assistida-por-inteligencia-artificial?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/[gabriel-tino]/projeto-composicao-musical-assistida-por-inteligencia-artificial?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
+ 
+## 📝 Descrição do Projeto
+Este projeto explora a intersecção entre criatividade humana e Inteligência Artificial. Utilizando técnicas de **RAG (Retrieval-Augmented Generation)** através do Gemini Gems, foi criado um assistente especializado na análise lírica de [NOME DO ARTISTA]. O objetivo final foi a produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.
+ 
+## 🛠️ Tecnologias Utilizadas
+* **Gemini Gems:** Criação de base de conhecimento e geração de letras.
+* **Suno AI:** Geração de áudio e arranjos instrumentais.
+* **GitHub:** Documentação e versionamento do projeto.
+ 
+## 🚀 Assistente Personalizado
+O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
+> [Link para o meu Gemini Gems](LINK_AQUI)
+ 
+## 🎧 Músicas Geradas
+| Faixa | Título | Estilo/Referência | Link do Áudio |
+| :--- | :--- | :--- | :--- |
+| 01 | [Molduras de Sangue] | [R&B] | [Arquivo MP3]([./audio/musica1.mp3](https://suno.com/s/UNWH8VXWpUAsyFQu)) |
+| 02 | [Espada de Dâmocles] | [hip-hop] | [Arquivo MP3]([./audio/musica2.mp3](https://suno.com/s/KzcGmkHe9AsNOoBQ)) |
+| 03 | [Olhar de Gárgula] | [boombap] | [Arquivo MP3]([./audio/musica3.mp3](https://suno.com/s/UjlpoSmd9Ym1t3tg)) |
+| 04 | [Ouro do capitão] | [Estilo] | [Arquivo MP3]([./audio/musica4.mp3](https://suno.com/s/Eey14IwALuFset2f)) |
+ 
+## 📄 Processo de Criação
+1. **Curadoria:** Seleção de 10 letras do artista base.
+2. **Prompt Engineering:** Configuração das instruções do Gems para mimetizar o vocabulário e a métrica.
+3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
+ 
+---
+Desenvolvido por [[Gabriel]](https://github.com/[gabriel-tino])
