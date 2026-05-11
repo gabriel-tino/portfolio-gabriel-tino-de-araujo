@@ -66,7 +66,13 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto feito em IA simulando uma ia de reconhecimento de fotos** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/laboratorio-de-classificacao-visual)) |
- 
+
+#### 🗃️ composicao-musical-assistida-por-inteligencia-artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto feito em IA simulando musicas inspiradas em artitas reais** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[[./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/laboratorio-de-classificacao-visual)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/composicao-musical-assistida-por-inteligencia-artificial)) |
+
+
 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
