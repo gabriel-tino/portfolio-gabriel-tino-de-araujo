@@ -57,10 +57,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Projeto feito em IA simulando um app de videoconferencia** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[./League-of-CSS](https://github.com/gabriel-tino/League-of-CSS)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi)) |
 
-#### 🗃️ League-of-CSS
+#### 🗃️ do-clone-ao-produto-minimo-viavel
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando ferramentas de Design** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.) |
+| **Projeto feito em IA simulando um app existente** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)) |
  
 
 ### 🏗 Estrutura do Repositório
