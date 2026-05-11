@@ -1,0 +1,14 @@
+Estratégia de Saída e Mitigação de Vendor Lock-in
+Análise de Risco:
+O Bubble é uma plataforma "closed-source", o que significa que ele retém a posse do código-fonte gerado e da infraestrutura de execução. Não é possível "exportar o código" para rodar em um servidor próprio (Node.js ou Python). Isso cria um cenário de Vendor Lock-in, onde a continuidade do software depende exclusivamente da existência e das políticas de preços da plataforma.
+
+Plano de Mitigação e Extração de Dados:
+Para garantir a soberania sobre as informações e viabilizar uma futura reescrita em tecnologias tradicionais (como React para o frontend e Node.js para o backend), a estratégia baseia-se na extração programática via API:
+
+Habilitação da Data API: Através das configurações do Bubble (Settings > API), deve-se habilitar a "Data API" para as tabelas críticas, como Usuários, Clientes e Orçamentos.
+
+Extração via JSON: Caso a migração seja necessária, será desenvolvido um script (em Python, utilizando a biblioteca requests) para realizar requisições GET nos endpoints gerados pelo Bubble (ex: https://app-name.bubbleapps.io/api/1.1/obj/orcamento).
+
+Persistência Externa: Os dados recebidos em formato JSON seriam parseados e inseridos em um banco de dados relacional independente (como PostgreSQL).
+
+Reaproveitamento da Lógica: Embora o código não seja exportável, a documentação dos Workflows e as Privacy Rules criadas no Bubble servirão como o "Manual de Requisitos" e "Dicionário de Dados" para os desenvolvedores que implementarão a nova versão em código puro.
