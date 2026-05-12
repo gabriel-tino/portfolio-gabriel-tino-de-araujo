@@ -39,38 +39,43 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ a-corrida-do-prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A corrida do prompt** | Este repositório documenta a atividade prática "A Corrida do Prompt", onde os participantes atuam como engenheiros de instrução para dominar a comunicação com Modelos de Linguagem (LLMs) | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/a-corrida-do-prompt) |
+| **A corrida do prompt** | Este repositório documenta a atividade prática "A Corrida do Prompt", onde os participantes atuam como engenheiros de instrução para dominar a comunicação com Modelos de Linguagem (LLMs) | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-a-corrida-do-prompt) |
  
 #### 🤖 batalha-de-modelos-e-engenharia-de-prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **batalha-de-modelos-e-engenharia-de-prompt** | Este repositório registra os dados e análises da atividade de desenvolvimento Front-end utilizando prompts estruturados para testar a fidelidade e precisão de diversos LLMs | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/batalha-de-modelos-e-engenharia-de-prompt) |
+| **batalha-de-modelos-e-engenharia-de-prompt** | Este repositório registra os dados e análises da atividade de desenvolvimento Front-end utilizando prompts estruturados para testar a fidelidade e precisão de diversos LLMs | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-batalha-de-modelos-e-engenharia-de-prompt) |
  
 ---
-#### 🗃️ orcapro
+#### 🗃️ projeto-engenharia-de-software-e-ai-com-bubble.io
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando Cadastro de clientes** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./portifolioAulaSexta](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/engenharia-de-software-e-ai-com-bubble.io)) |
+| **Projeto feito em IA simulando Cadastro de clientes** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-engenharia-de-software-e-ai-com-bubble.io) |
 
 #### 🗃️ desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando um app de videoconferencia** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[./League-of-CSS](https://github.com/gabriel-tino/League-of-CSS)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi)) |
+| **Projeto feito em IA simulando um app de videoconferencia** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi) |
 
 #### 🗃️ do-clone-ao-produto-minimo-viavel
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando um app existente** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)) |
+| **Projeto feito em IA simulando um app existente** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-do-clone-ao-produto-minimo-viavel) |
 
 #### 🗃️ laboratorio-de-classificacao-visual
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto feito em IA simulando uma ia de reconhecimento de fotos** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/laboratorio-de-classificacao-visual)) |
 
-#### 🗃️ composicao-musical-assistida-por-inteligencia-artificial
+#### 🗃️ projeto-engenharia-reversa
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto feito em IA simulando musicas inspiradas em artitas reais** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto]([[[./Projeto-da-aula-de-Engenharia-de-Prompt-e-Aplica-es-em-Ia.](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/do-clone-ao-produto-minimo-viavel)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/laboratorio-de-classificacao-visual)](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/composicao-musical-assistida-por-inteligencia-artificial)) |
+| **Projeto feito em IA simulando sites ja existentes** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-engenharia-reversa) |
+
+#### 🗃️ projeto-engenharia-reversa
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto feito em IA simulando sites ja existentes** | Projeto da aula de Engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/gabriel-tino/portfolio-gabriel-tino-de-araujo/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto-laboratorio-de-classificacao-visual) |
 
 
 
